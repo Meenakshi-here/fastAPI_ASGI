@@ -16,7 +16,7 @@ In simple terms, FastAPI uses ASGI to build web APIs that can handle lots of req
 Uvicorn is a lightning-fast ASGI server implementation that allows FastAPI (and other ASGI frameworks) to serve web applications. Think of it as the delivery service for your FastAPI kitchen: it takes the finished dishes (responses) from FastAPI and delivers them to the customers (clients) quickly and efficiently. Uvicorn is known for its speed and ability to handle many requests concurrently, making it an ideal companion for FastAPI when deploying web applications.
 
 
-**API interacts with data with 4 main requests:**
+**API interacts with data with 4 main requests:** <br>
 GET: Retrieve Data <br>
 POST: Create Data <br>
 PUT: Update Data <br>
