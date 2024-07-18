@@ -17,9 +17,9 @@ Uvicorn is a lightning-fast ASGI server implementation that allows FastAPI (and 
 
 
 **API interacts with data with 4 main requests:**
-GET: Retrieve Data
-POST: Create Data
-PUT: Update Data
+GET: Retrieve Data <br>
+POST: Create Data <br>
+PUT: Update Data <br>
 DELETE: Delete Data
 
 
