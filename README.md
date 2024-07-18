@@ -3,7 +3,7 @@
 **FastAPI as a Restaurant Kitchen**
 FastAPI is like a super-efficient restaurant kitchen. The kitchen is FastAPI, recipes are the instructions (APIs) for making dishes, orders are what customers ask for (requests), chefs are the parts that handle specific requests (endpoints), and the menu is the automatic guide (documentation) showing what’s available and how to order. This way, customer requests are managed quickly and correctly, with clear instructions on what services are offered and how to use them.
 
-**Why FastAPI?**
+
 ![image](https://github.com/user-attachments/assets/c3402f67-ab29-46b7-9eb4-963ba62b2759)
 
 **What is AGSI and the purpose of fastAPI in AGSI?**
